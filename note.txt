@@ -1,0 +1,35 @@
+OTP
+=========
+time based OTP (TOTP)
+counter based OTP (HOTP)
+
+TOTP (Situasi yang lebih sesuai) 
+=================
+1. Autentikasi Online
+
+
+HOTP (Situasi yang lebih sesuai) 
+=================
+1. Autentikasi Offline (Local Server)
+
+
+
+Library for OTP messaging
+===========================
+1. Twilio (Not Recomended)
+2. Vonage (Recomended)
+3. Plivo
+4. Amazon SNS 
+5. Alternatif: MessageBird, Telnyx, ClickSend
+6. SMS Gateway Lokal
+
+
+
+TESTING
+=============
+085281944451
+
+
+Further Update
+=====================
+Counter in application
