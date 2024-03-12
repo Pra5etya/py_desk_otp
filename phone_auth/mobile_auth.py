@@ -6,8 +6,7 @@ sms = vonage.Sms(client)
 responseData = sms.send_message(
     {
         "from": "Vonage Sample",
-        # "to": "6285281944451",
-        "to": "6285157145443",
+        "to": "verified number on vonage",
         "text": "A text message sent using the Vonage SMS API",
     }
 )
